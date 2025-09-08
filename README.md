@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Aplicación de Gestión Financiera Personal
 
 Una aplicación web moderna y completa para la gestión de finanzas personales, desarrollada con React, TypeScript y Vite.
@@ -342,3 +343,7 @@ https://finanzas-mspz0lafs-jeider-torres-projects.vercel.app
 https://claude.ai/public/artifacts/48c2efd4-dc36-4bfe-bb56-c0e695ee65d9?fullscreen=false
 
 *Desarrollado con ❤️ usando React, TypeScript y Vite*
+=======
+# App_Financiera
+Proyecto Software II
+>>>>>>> 271213ab9bca8bfc98c1175e9ed1f4e9e1dd0051
