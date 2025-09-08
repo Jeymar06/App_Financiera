@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 💰 Aplicación de Gestión Financiera Personal
 
 Una aplicación web moderna y completa para la gestión de finanzas personales, desarrollada con React, TypeScript y Vite.
