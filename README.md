@@ -13,7 +13,7 @@ Una aplicación web moderna y completa para la gestión de finanzas personales, 
 - [Arquitectura y Diseño](#-arquitectura-y-diseño)
 - [Funcionalidades Implementadas](#-funcionalidades-implementadas)
 - [Despliegue](#-despliegue)
-- [Contribuciones](#-contribuciones)
+
 
 ## ✨ Características
 
@@ -268,69 +268,8 @@ interface AppData {
 - **Páginas**: 5 vistas principales
 - **Dependencias**: 15 paquetes npm
 - **Tamaño del build**: ~560 KB (comprimido: ~167 KB)
-- **Tiempo de desarrollo**: ~2 horas
+- **Tiempo de desarrollo**: ~X horas
 
-## 🎯 Características Técnicas Destacadas
-
-### Validaciones Implementadas
-- **Email único** en registro
-- **Contraseñas coincidentes** en registro
-- **Longitud mínima** de contraseña (6 caracteres)
-- **Campos requeridos** en formularios
-- **Formato de fecha** válido
-- **Montos numéricos** positivos
-
-### Optimizaciones
-- **Lazy loading** de componentes
-- **Memoización** de cálculos costosos
-- **Build optimizado** con Vite
-- **Código minificado** para producción
-- **Tree shaking** de dependencias no utilizadas
-
-### Experiencia de Usuario
-- **Carga rápida** con Vite
-- **Hot reload** en desarrollo
-- **Mensajes de error** claros y útiles
-- **Feedback visual** en interacciones
-- **Navegación intuitiva** entre secciones
-
-## 🔮 Posibles Mejoras Futuras
-
-### Funcionalidades
-- [ ] **Categorías personalizadas** para ingresos/egresos
-- [ ] **Exportar datos** a Excel/PDF
-- [ ] **Presupuestos mensuales** con alertas
-- [ ] **Metas financieras** y seguimiento
-- [ ] **Análisis de gastos** por categoría
-- [ ] **Backup en la nube** de datos
-
-### Técnicas
-- [ ] **Base de datos** real (Firebase/Supabase)
-- [ ] **Autenticación** con OAuth (Google, GitHub)
-- [ ] **PWA** (Progressive Web App)
-- [ ] **Notificaciones** push
-- [ ] **Modo offline** con Service Workers
-- [ ] **Tests unitarios** con Jest/Vitest
-
-## 👥 Contribuciones
-
-### Cómo Contribuir
-1. **Fork** el repositorio
-2. **Crear rama** para nueva funcionalidad
-3. **Commit** cambios con mensajes descriptivos
-4. **Push** a la rama
-5. **Crear Pull Request** con descripción detallada
-
-### Estándares de Código
-- **TypeScript** estricto
-- **ESLint** para calidad
-- **Prettier** para formato
-- **Conventional Commits** para mensajes
-- **Componentes funcionales** con hooks
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 ## 📞 Contacto
 
@@ -339,11 +278,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 **GitHub**: [Jeymar06]
 
 ---
-https://finanzas-mspz0lafs-jeider-torres-projects.vercel.app
-https://claude.ai/public/artifacts/48c2efd4-dc36-4bfe-bb56-c0e695ee65d9?fullscreen=false
-
+**https://finanzas-mspz0lafs-jeider-torres-projects.vercel.app**
+**https://claude.ai/public/artifacts/48c2efd4-dc36-4bfe-bb56-c0e695ee65d9?fullscreen=false**
+---
 *Desarrollado con ❤️ usando React, TypeScript y Vite*
-=======
-# App_Financiera
-Proyecto Software II
->>>>>>> 271213ab9bca8bfc98c1175e9ed1f4e9e1dd0051
+
