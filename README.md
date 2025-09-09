@@ -280,6 +280,7 @@ interface AppData {
 ---
 **https://finanzas-mspz0lafs-jeider-torres-projects.vercel.app**
 **https://claude.ai/public/artifacts/48c2efd4-dc36-4bfe-bb56-c0e695ee65d9?fullscreen=false**
+**https://vercel.com/jeider-torres-projects/finanzas-app/Ce2xETJrQgKYKqaEpGPCUt39cURJ**
 ---
 *Desarrollado con ❤️ usando React, TypeScript y Vite*
 
