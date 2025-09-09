@@ -278,8 +278,8 @@ interface AppData {
 **GitHub**: [Jeymar06]
 
 ---
-**https://finanzas-mspz0lafs-jeider-torres-projects.vercel.app**
-**https://vercel.com/jeider-torres-projects/finanzas-app/Ce2xETJrQgKYKqaEpGPCUt39cURJ**
+- **https://finanzas-mspz0lafs-jeider-torres-projects.vercel.app**
+- **https://vercel.com/jeider-torres-projects/finanzas-app/Ce2xETJrQgKYKqaEpGPCUt39cURJ**
 ---
 *Desarrollado con ❤️ usando React, TypeScript y Vite*
 
